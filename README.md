@@ -8,4 +8,4 @@ This project is a starting point for a Flutter application.
 
 
 ## Screenshots
-![Profile](./screenshots/profile.jpeg?raw=true "Profile")
+![Profile](./screenshots/profile.png?raw=true "Profile")
