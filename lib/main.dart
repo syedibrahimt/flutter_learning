@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
               Card(
                 margin: EdgeInsets.symmetric(
                   vertical: 10,
-                  horizontal: 360,
+                  horizontal: 30,
                 ),
                 child: ListTile(
                   leading: Icon(
@@ -70,7 +70,7 @@ class MyApp extends StatelessWidget {
               Card(
                 margin: EdgeInsets.symmetric(
                   vertical: 10,
-                  horizontal: 360,
+                  horizontal: 30,
                 ),
                 child: ListTile(
                   leading: Icon(
